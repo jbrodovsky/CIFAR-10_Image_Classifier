@@ -1,2 +1,2 @@
 # CIFAR-10_Image_Classifier
-Image classifier project for Udacity's Intro to ML with PyTorch
+Image classifier project for Udacity's Intro to ML with PyTorch. In this project I used a simple convolutional neural network on the CIFAR-10 dataset and was able to achieve 71% accuracy on the testing set.
